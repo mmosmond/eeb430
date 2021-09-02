@@ -28,13 +28,13 @@ Mathematics is central to science because it provides a rigourous way to go from
 ### Professor
 Dr. Matthew Osmond (he/him)
 - email: mm.osmond@utoronto.ca
-- office hours: [], Earth Sciences Centre (ESC) 3041
+- office hours: Wednesday 11-12, Earth Sciences Centre (ESC) 3041
 - website: [osmond-lab.github.io](https://osmond-lab.github.io/)
 
 ### Teaching assistant (TA)
 Puneeth Deraje
 - email: puneeth.deraje@mail.utoronto.ca
-- office hours: []
+- office hours: Thursday 10-11, TBA
 
 ## Course format
 This course follows a "flipped class" style, meaning you'll watch lectures asynchronously online so that we can use the class time to actively work on problem sets together.
