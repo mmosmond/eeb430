@@ -6,3 +6,5 @@ To run the labs from your browser in a pre-built environment, click on the binde
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmosmond/eeb430/HEAD?filepath=labs)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmosmond/eeb430/HEAD)
+
