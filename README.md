@@ -1,5 +1,5 @@
 # eeb430
-Materials for teaching EEB430: Modelling in ecology and evolution
+Materials for teaching EEB 430/1430 (Mathematical modeling in ecology and evolution) at the University of Toronto
 
 ## Labs
 To run the labs from your browser in a pre-built environment, click on the binder tab:
