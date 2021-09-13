@@ -107,8 +107,8 @@ Otto & Day 2007. A biologist's guide to mathematical modeling in ecology and evo
 - available [online](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106921343406196)
 
 ### Grading scheme
-- 20% - homework assignments (12)
-- 20% - lab assignments (12)
+- 20% - homework assignments (11)
+- 20% - lab assignments (11)
 - 20% - midterm exam
 - 15% - final project
 - 25% - final exam
