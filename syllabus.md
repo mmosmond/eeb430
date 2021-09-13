@@ -109,7 +109,7 @@ Otto & Day 2007. A biologist's guide to mathematical modeling in ecology and evo
 ### Grading scheme
 - 20% - homework assignments (11)
 - 20% - lab assignments (11)
-- 20% - midterm exam
+- 20% - midterm exam (Nov 5)
 - 15% - final project
 - 25% - final exam
 
@@ -178,7 +178,7 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 - **lecture 2**: none
 - **lab**: none
 - **readings**: none
-- **notes**: midterm exam week; the midterm will include material from weeks 1-7 only
+- **notes**: midterm exam during lab time; the midterm will include material from weeks 1-7 only
 
 ### Week 9 (Nov 8 - 12)
 - Fall reading week (no classes)
