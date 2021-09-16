@@ -133,9 +133,9 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 
 ### Week 2 (Sep 20 - 24)
 - **lecture 1**: model construction
-- **lecture 2**: example models (one-locus selection, epidemic)
+- **lecture 2**: example models (one-locus selection)
 - **lab**: differential equations & recursions
-- **readings**: ch 2 (lecture 1), sec 3.3 & 3.5 (lecture 2)
+- **readings**: ch 2 (lecture 1), sec 3.3 (lecture 2)
 - **notes**: all meetings will be online this week
 
 ### Week 3 (Sep 27 - Oct 1)
