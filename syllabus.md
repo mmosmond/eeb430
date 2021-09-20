@@ -113,6 +113,8 @@ Otto & Day 2007. A biologist's guide to mathematical modeling in ecology and evo
 - 15% - final project
 - 25% - final exam
 
+Late fees: -5% per day for late homeworks, labs, and final projects.
+
 ### Course webpage
 All course information will be posted on [Quercus](https://q.utoronto.ca) or emailed to you directly through your utoronto email. If you have any problem accessing the material, let us know right away via email so we can fix the problem.
 
