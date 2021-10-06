@@ -3,7 +3,8 @@
 
 # Kernel we'll use
 # See https://github.com/sagemath/sage/tree/develop/docker
-FROM sagemath/sagemath:latest
+#FROM sagemath/sagemath:latest
+FROM sagemath/sagemath:9.1-py3
 
 # we'll run this in Jupyter Lab
 # RUN sage -pip install jupyterlab
