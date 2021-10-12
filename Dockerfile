@@ -11,4 +11,6 @@ FROM sagemathinc/cocalc:latest
 #RUN sage -pip install --no-cache notebook jupyterlab
 
 # Copy the contents of the repo in ${HOME}
-COPY --chown=sage:sage . ${HOME}
+#COPY --chown=sage:sage . ${HOME}
+# part of workaround
+COPY --chown=sage:sage ./* /home/sage/
