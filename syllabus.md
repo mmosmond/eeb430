@@ -155,10 +155,10 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 - **notes**:
 
 ### Week 5 (Oct 11 - 15)
-- **lecture 1**: general solutions (univariate)
-- **lecture 2**: linear algebra review
-- **lab**: general solutions & linear algebra
-- **readings**: ch 6 (lecture 1), primer 2 (lecture 2)
+- **lecture 1**: (university holiday)
+- **lecture 2**: general solutions (univariate)
+- **lab**: general solutions
+- **readings**: ch 6 (lecture 2)
 - **notes**: no tutorial on Oct 11 (university holiday)
 
 ### Week 6 (Oct 18 - 22)
