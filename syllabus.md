@@ -162,25 +162,25 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 - **notes**: no tutorial on Oct 11 (university holiday)
 
 ### Week 6 (Oct 18 - 22)
+- **lecture 1**: linear algebra review I (vectors and matrices)
+- **lecture 2**: linear algebra review II (eigenvalues and eigenvectors)
+- **lab**: linear algebra
+- **readings**: sec P2.1-P2.6 (lecture 1), sec P2.7-P2.9 (lecture 2)
+- **notes**:
+
+### Week 7 (Oct 25 - 31)
 - **lecture 1**: equilibria & stability I (linear multivariate, continuous-time)
 - **lecture 2**: equilibria & stability II (linear multivariate, discrete-time)
 - **lab**: equilibria & stability (linear multivariate)
 - **readings**: sec 7.1-7.3 (lecture 1), sec 7.4-7.5 (lecture 2)
 - **notes**:
 
-### Week 7 (Oct 25 - 31)
+### Week 8 (Nov 1 - 5)
 - **lecture 1**: equilibria & stability I (nonlinear multivariate, continuous-time)
 - **lecture 2**: stability & stability II (nonlinear multivariate, discrete-time)
-- **lab**: equilibria & stability (nonlinear multivariate)
+- **lab**: MIDTERM (material from weeks 1-6 only)
 - **readings**: sec 8.1-8.2 (lecture 1), sec 8.3-8.5 (lecture 2)
 - **notes**:
-
-### Week 8 (Nov 1 - 5)
-- **lecture 1**: none
-- **lecture 2**: none
-- **lab**: none
-- **readings**: none
-- **notes**: midterm exam during lab time; the midterm will include material from weeks 1-7 only
 
 ### Week 9 (Nov 8 - 12)
 - Fall reading week (no classes)
