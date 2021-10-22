@@ -135,7 +135,7 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 
 ### Week 2 (Sep 20 - 24)
 - **lecture 1**: model construction
-- **lecture 2**: example models (one-locus selection)
+- **lecture 2**: example models (haploid and diploid selection)
 - **lab**: differential equations & recursions
 - **readings**: ch 2 (lecture 1), sec 3.3 (lecture 2)
 - **notes**: all meetings will be online this week
@@ -157,7 +157,7 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 ### Week 5 (Oct 11 - 15)
 - **lecture 1**: (university holiday)
 - **lecture 2**: general solutions (univariate)
-- **lab**: general solutions
+- **lab**: general solutions (univariate)
 - **readings**: ch 6 (lecture 2)
 - **notes**: no tutorial on Oct 11 (university holiday)
 
@@ -169,18 +169,18 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 - **notes**:
 
 ### Week 7 (Oct 25 - 31)
-- **lecture 1**: equilibria & stability I (linear multivariate, continuous-time)
-- **lecture 2**: equilibria & stability II (linear multivariate, discrete-time)
-- **lab**: equilibria & stability (linear multivariate)
-- **readings**: sec 7.1-7.3 (lecture 1), sec 7.4-7.5 (lecture 2)
+- **lecture 1**: equilibria & stability (linear multivariate)
+- **lecture 2**: equilibria & stability (nonlinear multivariate)
+- **lab**: equilibria & stability (multivariate)
+- **readings**: ch 7 (lecture 1), ch 8 (lecture 2)
 - **notes**:
 
 ### Week 8 (Nov 1 - 5)
-- **lecture 1**: equilibria & stability I (nonlinear multivariate, continuous-time)
-- **lecture 2**: stability & stability II (nonlinear multivariate, discrete-time)
+- **lecture 1**: general solutions (multivariate)
+- **lecture 2**: none
 - **lab**: MIDTERM (material from weeks 1-6 only)
-- **readings**: sec 8.1-8.2 (lecture 1), sec 8.3-8.5 (lecture 2)
-- **notes**:
+- **readings**: ch 9 (lecture 1)
+- **notes**: there will be no lecture 2 and tutorial 2 will be midterm review
 
 ### Week 9 (Nov 8 - 12)
 - Fall reading week (no classes)
