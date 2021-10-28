@@ -1,6 +1,8 @@
-#syllabus alternate forms
-syllabus.html
-syllabus.pdf
+**/.DS_Store
+thoughts.txt
+
+#syllabus
+syllabus.*
 md2pdf.sh
 
 # Lecture videos
