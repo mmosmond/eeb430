@@ -188,10 +188,10 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 - Fall reading week (no classes)
 
 ### Week 10 (Nov 15 - 19)
-- **lecture 1**: stage-structure I (general)
-- **lecture 2**: stage-structure II (age-structure)
-- **lab**: stage-structure
-- **readings**: sec 10.1-10.5 (lecture 1), sec 10.6-10.7 (lecture 2)
+- **lecture 1**: demography
+- **lecture 2**: evolutionary invasion analysis
+- **lab**: TBD
+- **readings**: chapter 10 (lecture 1), sec 12.1-12.3 (lecture 2)
 - **notes**:
 
 ### Week 11 (Nov 22 - 26)

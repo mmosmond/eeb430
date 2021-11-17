@@ -1,8 +1,12 @@
 **/.DS_Store
 thoughts.txt
 
+#exams
+**/exams/
+
 #syllabus
-syllabus.*
+syllabus.pdf
+syllabus.html
 md2pdf.sh
 
 # Lecture videos
