@@ -87,13 +87,13 @@ Puneeth Deraje
 - office hours: Thursday 10-11, ESC 3046 (on Zoom until Sep. 30)
 
 ## Course format
-This course follows a "flipped" style, meaning you'll watch lectures asynchronously online so that we can use the class time to discuss questions and actively work on problems together.
+This course follows a "flipped" style, meaning you'll watch lectures asynchronously online so that we can use the class time to discuss questions and actively work on examples together.
 
 ### Weekly tasks:
 - read assigned sections of the text [approx. time = 2h]
 - watch two lectures online [approx. time = 1h]
 - attend two tutorials [approx. time = 2h]
-- submit homework assignment [approx. time = 0h; ie, ideally completed during tutorials]
+- submit homework assignment [approx. time = 1h]
 - attend computer lab [approx. time = 2h]
 
 ### When and where
@@ -189,16 +189,16 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 
 ### Week 10 (Nov 15 - 19)
 - **lecture 1**: demography
-- **lecture 2**: evolutionary invasion analysis
-- **lab**: TBD
-- **readings**: chapter 10 (lecture 1), sec 12.1-12.3 (lecture 2)
+- **lecture 2**: evolutionary invasion analysis (example)
+- **lab**: demography
+- **readings**: chapter 10 (lecture 1)
 - **notes**:
 
 ### Week 11 (Nov 22 - 26)
 - **lecture 1**: evolutionary invasion analysis I (general)
 - **lecture 2**: evolutionary invasion analysis II (stage-structure)
 - **lab**: evolutionary invasion analysis
-- **readings**: sec 12.1-12.4 (lecture 1), sec 12.5-12.6 (lecture 2)
+- **readings**: sec 12.1-12.3 (lecture 1), sec 12.5-12.6 (lecture 2)
 - **notes**:
 
 ### Week 12 (Nov 29 - Dec 3)
