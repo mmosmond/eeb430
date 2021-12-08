@@ -203,14 +203,14 @@ All course information will be posted on [Quercus](https://q.utoronto.ca) or ema
 
 ### Week 12 (Nov 29 - Dec 3)
 - **lecture 1**: probability theory
-- **lecture 2**: probabilistic models
-- **lab**: stochastic simulations
-- **readings**: primer 3 (lecture 1), ch 13 (lecture 2)
+- **lecture 2**: discrete probability distributions
+- **lab**: Wright-Fisher simulations
+- **readings**: sec P3.1-2 (lecture 1), sec P3.3 (lecture 2)
 - **notes**:
 
 ### Week 13 (Dec 6 - 10)
-- **lecture 1**: analyzing stochastic models I
-- **lecture 2**: analyzing stochastic models II
-- **lab**: analyzing stochastic models
-- **readings**: ch 14 (lecture 1), ch 15 (lecture 2)
+- **lecture 1**: continuous probability distributions
+- **lecture 2**: review
+- **lab**: birth-death simulations
+- **readings**: sec P3.4 (lecture 1)
 - **notes**:
